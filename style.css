@@ -1,0 +1,9 @@
+input{
+/*    vertical-align: bottom;*/
+position: relative;
+left: 150px;
+width: 50%;
+padding-left: 15px;
+background-color: black;
+color: white;
+}
